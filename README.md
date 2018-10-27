@@ -6,4 +6,7 @@ Recuerden ejecutar el siguiente comando:
 npm install
 ```
 
-## Ejemplo: node app -d "Tepic Nayarit"
+## Ejemplo: 
+```
+node app -d "Tepic Nayarit"
+```
